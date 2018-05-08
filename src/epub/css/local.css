@@ -9,3 +9,12 @@ span[epub|type~="subtitle"]{
 abbr.name{
 	white-space: nowrap;
 }
+
+b{
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+.advertisement{
+	font-variant: small-caps;
+}
