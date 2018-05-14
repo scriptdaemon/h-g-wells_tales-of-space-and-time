@@ -33,7 +33,7 @@
 		<dc:subject id="subject-1">Science fiction, English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/27365</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">A collection of science fiction short stories and novellas spanning the stonage age to the distant future.</dc:description>
+		<dc:description id="description">A collection of science fiction short stories and novellas spanning the stone age to the distant future.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Tales of Space and Time&lt;/i&gt; is a collection of science fiction short stories and novellas that explore accounts from the distant past to the distant future: from the first human to ride a horse who becomes the leader of his tribe, to life of a middle-class couple in a dystopian future.&lt;/p&gt;
